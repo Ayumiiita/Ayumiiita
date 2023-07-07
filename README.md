@@ -11,5 +11,7 @@
   <br>
   Anyway, I'll continue learning many more technologies so I can show you some really cool stuff. 🤩
 </p>
+<B> <H3>  <p align="center">  
+Languages and Technologies 
+</p></B> </H3>
 
-<h1 align="center=> Langages and Technologies </h1>
