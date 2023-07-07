@@ -12,7 +12,7 @@
   Anyway, I'll continue learning many more technologies so I can show you some really cool stuff. 🤩
 </p>
 <B> <H3>  <p align="center">  
-Languages and Technologies 
+Languages and Technologies 💻
 </p></B> </H3>
 <br><p align="center">
 
@@ -24,7 +24,25 @@ Languages and Technologies
 
 
 </p>
+<br>
+<B><H3>  <p align="center">  
+You can find me here! 💜 
+</p></B>  </H3>
+<br><p align="center">
 
-
+<p align="center">
+    <a href="https://www.linkedin.com/in/laura-romeo-ortiz-24ba53233/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=c27fcf" alt="LinkedIn">
+    </a>
+    <a href="mailto:laura.romeo.ortiz@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=c27fcf" alt="e-mail">
+    </a>
+    <a href="https://twitter.com/ayumiiita">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=c27fcf" alt="Twitter">
+    </a>
+    <a href="https://www.instagram.com/ayumiiita/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=c27fcf" alt="Twitter">
+    </a>  
+</p>
 
 
