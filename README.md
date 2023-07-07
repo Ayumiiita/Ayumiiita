@@ -12,6 +12,7 @@
   Anyway, I'll continue learning many more technologies so I can show you some really cool stuff. 🤩
 </p>
 <B> <H3>  <p align="center">  
+  <br>
 Languages and Technologies 💻
 </p></B> </H3>
 <br><p align="center">
