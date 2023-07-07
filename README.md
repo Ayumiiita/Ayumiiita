@@ -2,7 +2,7 @@
 
 <p align="center"> Hi there! ⭐
   <br>
-  My name's Laura and I'm passionate about technology, cats, and K-pop.
+  My name's Laura and I'm passionate about technology, cats , and K-pop. 🎵
   <br>
   I've been doing a bit of coding lately, and I would love to <i>share it with all of you.</i>
   <br>
