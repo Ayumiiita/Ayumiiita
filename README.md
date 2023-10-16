@@ -17,13 +17,14 @@ Languages and Technologies 💻
 </p></B> </H3>
 <br><p align="center">
 
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/a9fc0112-0ba3-4863-a325-577764178db3" width="100" height="100" alt="Java">
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/4d80bf2a-c22c-46a6-8663-f72459934992" width="100" height="100" alt="Python">
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/062ce94f-dc98-43c4-b735-c01ded259f05" width="100" height="100" alt="JavaScript">
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/43c9fe69-d146-489b-abcb-73b32baf8366" width="100" height="100" alt="HTML">
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/aca5135c-ed1e-43e3-8554-f3683dbb377d" width="100" height="100" alt="CSS">
-<img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/c55ab449-a3d6-4f32-9238-52d1eedc2c06" width="100" height="100" alt="SQL">
-<img src="![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+
 
 
 
