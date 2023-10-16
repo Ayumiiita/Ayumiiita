@@ -23,6 +23,7 @@ Languages and Technologies 💻
 <img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/43c9fe69-d146-489b-abcb-73b32baf8366" width="100" height="100" alt="HTML">
 <img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/aca5135c-ed1e-43e3-8554-f3683dbb377d" width="100" height="100" alt="CSS">
 <img src="https://github.com/Ayumiiita/Ayumiiita/assets/118337808/c55ab449-a3d6-4f32-9238-52d1eedc2c06" width="100" height="100" alt="SQL">
+<img src="![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)>
 
 
 
